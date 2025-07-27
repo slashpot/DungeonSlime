@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Godot Projects\\DungeonSlime\\DungeonSlime.csproj": {}
+    "/Users/ericlin/dev/DungeonSlime/DungeonSlime.csproj": {}
   },
   "projects": {
-    "e:\\Godot Projects\\DungeonSlime\\DungeonSlime.csproj": {
+    "/Users/ericlin/dev/DungeonSlime/DungeonSlime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Godot Projects\\DungeonSlime\\DungeonSlime.csproj",
+        "projectUniqueName": "/Users/ericlin/dev/DungeonSlime/DungeonSlime.csproj",
         "projectName": "DungeonSlime",
-        "projectPath": "e:\\Godot Projects\\DungeonSlime\\DungeonSlime.csproj",
-        "packagesPath": "C:\\Users\\ttttt\\.nuget\\packages\\",
-        "outputPath": "e:\\Godot Projects\\DungeonSlime\\obj\\",
+        "projectPath": "/Users/ericlin/dev/DungeonSlime/DungeonSlime.csproj",
+        "packagesPath": "/Users/ericlin/.nuget/packages/",
+        "outputPath": "/Users/ericlin/dev/DungeonSlime/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ttttt\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/ericlin/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -70,15 +70,11 @@
               "version": "[8.0.18, 8.0.18]"
             },
             {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
               "version": "[8.0.18, 8.0.18]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.18, 8.0.18]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
               "version": "[8.0.18, 8.0.18]"
             }
           ],
@@ -87,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
